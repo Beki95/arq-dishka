@@ -13,7 +13,7 @@ from application.service import (
     IServiceLogic,
     ServiceLogic,
 )
-from infra.sessions import Session
+from infra.db.sessions import Session
 
 
 class SessionProvider(Provider):

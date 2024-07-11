@@ -9,6 +9,8 @@ readme = "README.md"
 python = "^3.10"
 dishka = "^1.2.0"
 arq = "^0.26.0"
+adaptix = "^3.0.0b7"
+tomli = "^2.0.1"
 
 
 [build-system]
